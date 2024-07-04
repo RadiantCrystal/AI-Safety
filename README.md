@@ -1,5 +1,5 @@
 # AI-Safety
-Contains all the papers presented in ACM Summer School on Generative AI for Text 2024
+Contains all the papers presented at <b>ACM Summer School on Generative AI for Text 2024</b>
 
 
 ## Identifying harmful behaviour of language models
