@@ -1,6 +1,7 @@
 # AI-Safety
 Contains all the papers presented at <b>ACM Summer School on Generative AI for Text 2024</b>
-<span style="color:red"> Description of the codebase and its structure. </span>
+
+👺WARNING❗: This repo contains several unethical and sensitive statements
 
 ## Identifying and mitigating harmful behaviour of language models
 
