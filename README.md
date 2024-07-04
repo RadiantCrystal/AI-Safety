@@ -1,8 +1,8 @@
 # AI-Safety
 Contains all the papers presented at <b>ACM Summer School on Generative AI for Text 2024</b>
+<span style="color:red"> Description of the codebase and its structure. </span>
 
-
-## Identifying harmful behaviour of language models
+## Identifying and mitigating harmful behaviour of language models
 
 - 🎯 Somnath Banerjee, Sayan Layek, __Rima Hazra__, Animesh Mukherjee. __How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries__. 👉 [Paper](https://arxiv.org/abs/2402.15302) [Under Review]
   
@@ -31,11 +31,16 @@ Contains all the papers presented at <b>ACM Summer School on Generative AI for T
 - AdvBench 👉 [download](https://huggingface.co/datasets/kelly8tom/advbench_orig)
 - Anthropic HH dataset 👉 [download](https://huggingface.co/datasets/Anthropic/hh-rlhf)
 
+## Useful Links
+
+- Uploading the slides soon.
+- Get our AI and Safety huggingface collection from [here](https://huggingface.co/collections/rimahazra/ai-and-safety-66741d4a5a2cb9e960ecde16)  
 
 ## Demo codebase
-
-- Uploadiing the codes soon.
-
+```
+- Simple jailbreaking with naive prompt - Safe_Unsafe_Examples.ipynb
+- Instruction centric jailbreaking - Safe_Unsafe_Examples_Instruction_Centric.ipynb
+```
 ## Support
 
 - ⭐️ If you find the github resources helpful, our papers and datasets (🎯) interesting, <b>please encourage us by starring, upvoting and sharing our papers and datasets!</b> 😊
