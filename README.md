@@ -3,6 +3,8 @@ Contains all the papers presented at <b>ACM Summer School on Generative AI for T
 
 👺WARNING❗: This repo contains several unethical and sensitive statements
 
+🌟🌟 New! See <b>Useful Links</b> to access the tutorial slides 🤗
+
 ## Identifying and mitigating harmful behaviour of language models
 
 - 🎯 Somnath Banerjee, Sayan Layek, __Rima Hazra__, Animesh Mukherjee. __How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries__. 👉 [Paper](https://arxiv.org/abs/2402.15302) [Under Review]
@@ -34,7 +36,7 @@ Contains all the papers presented at <b>ACM Summer School on Generative AI for T
 
 ## Useful Links
 
-- Uploading the slides soon.
+- 🔥 Access the slides from [here](https://drive.google.com/file/d/1vpc5DSLnKoPw4TxJRUY_GVZUKrfg3Q-p/view?usp=sharing)
 - Get our AI and Safety huggingface collection from [here](https://huggingface.co/collections/rimahazra/ai-and-safety-66741d4a5a2cb9e960ecde16)  
 
 ## Demo codebase
