@@ -1,4 +1,4 @@
-Wang, H., Wang, G., & Zhang, H. (2024). Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks. ArXiv, [paper](abs/2411.16721).
+Wang, H., Wang, G., & Zhang, H. (2024). Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks. ArXiv, abs/2411.16721.
 
 Ghosal, S.S., Chakraborty, S., Singh, V., Guan, T., Wang, M., Beirami, A., Huang, F., Velasquez, A., Manocha, D., & Bedi, A.S. (2024). Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment. ArXiv, abs/2411.18688.
 
